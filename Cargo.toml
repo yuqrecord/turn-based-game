@@ -1,0 +1,3 @@
+[workspace]
+members = ["engine", "net", "ui", "tic-tac-toe"]
+resolver = "2"
