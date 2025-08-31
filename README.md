@@ -1,3 +1,5 @@
+[日本語](README-ja.md)
+
 # Turn-Based Boardgame Engine (Rust)
 
 A Rust-based engine for turn-based board games.  
@@ -24,9 +26,3 @@ Supports both local and online multiplayer play.
 - Rust 1.80+
 - Native: Linux / macOS / Windows
 - Browser: WebAssembly (`wasm32-unknown-unknown`, with [Trunk](https://trunkrs.dev))
-
-## Quick Start
-
-### Native
-```bash
-cargo run -p host-app-native
